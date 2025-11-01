@@ -1,0 +1,9 @@
+# Pastas de ambiente
+venv/
+__pycache__/
+
+# Artefatos do RAG
+vectorstore/
+
+# Chaves de API
+.env 
